@@ -5,3 +5,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "BST260 Final Project"
+      href: tab1.html
